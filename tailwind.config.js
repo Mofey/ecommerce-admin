@@ -10,6 +10,7 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'custom-dark-blue': '#000011', // Replace with your desired dark blue color
       },
     },
   },
